@@ -1,0 +1,1 @@
+// Exercício 35: Usando um laço for, imprima os primeiros 10 números triangulares (n*(n+1)/2).

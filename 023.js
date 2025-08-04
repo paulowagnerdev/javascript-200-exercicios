@@ -1,0 +1,1 @@
+// Escreva um programa que verifica as cores de um semafáro.
