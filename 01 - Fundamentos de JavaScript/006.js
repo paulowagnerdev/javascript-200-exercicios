@@ -2,8 +2,8 @@
 Use os operadores lógicos AND, OR e NOT para realizar operações lógicas entre as variáveis. Imprima os resultados.
 */
 
-let boolOne = true;
-let booTwo = false;
+const boolOne = true;
+const booTwo = false;
 
 console.log(`OPERADOR E true e false: ${boolOne&&booTwo}`);
 console.log(`OPERADOR OR true e false: ${boolOne||booTwo}`);

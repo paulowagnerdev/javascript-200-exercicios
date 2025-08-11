@@ -4,9 +4,9 @@ atribua o seu nome e sobrenome a elas. Concatene-as em uma terceira variável ch
 
 */
 
-let name = "Paulo";
-let lastName = "Wagner";
+const firstName = "Paulo";
+const lastName = "Wagner";
 
-const completeName = name+' '+lastName;
+const completeName = firstName+ ' ' +lastName;
 
 console.log(completeName);

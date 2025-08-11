@@ -5,5 +5,5 @@ Use o operador de incremento para aumentar o valor da variável. Imprima o resul
 
 let numberIncrement = 5;
 
-console.log(`O NÚMERO É ${numberIncrement++} e agora incrementando é ${numberIncrement}`);
+console.log(`O NÚMERO É ${numberIncrement} e agora incrementando é ${numberIncrement++}`);
 
